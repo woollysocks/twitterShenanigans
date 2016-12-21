@@ -1,5 +1,12 @@
 \BOOKMARK [1][-]{section.1}{1. Introduction}{}% 1
-\BOOKMARK [1][-]{section.2}{2. Topic Modeling}{}% 2
-\BOOKMARK [1][-]{section.3}{3. Intuition}{}% 3
-\BOOKMARK [1][-]{section.4}{4. Data selection}{}% 4
-\BOOKMARK [1][-]{section*.1}{References}{}% 5
+\BOOKMARK [1][-]{section.2}{2. Latent Dirichlet Allocation}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{2.1. Term Frequency-Inverse Document Frequency}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{2.2. Beyond Vanilla LDA}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{3. Sentiment-Topic Model}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{3.1. Sentiment analysis}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{4. Data selection}{}% 7
+\BOOKMARK [1][-]{section.5}{5. Implementation}{}% 8
+\BOOKMARK [1][-]{section.6}{6. Experimental Examples}{}% 9
+\BOOKMARK [1][-]{section.7}{7. Discussion and Assessment}{}% 10
+\BOOKMARK [1][-]{section.8}{8. Conclusion}{}% 11
+\BOOKMARK [1][-]{section*.1}{References}{}% 12
